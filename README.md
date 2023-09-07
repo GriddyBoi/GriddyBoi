@@ -3,7 +3,10 @@
   <a>
     <img src="https://lanyard-profile-readme.vercel.app/api/155489628734881792">
   </a>
-<p href="http://www.github.com/GriddyBoi"><img src="https://github-readme-stats.vercel.app/api?username=GriddyBoi&show_icons=true&theme=react" alt="GriddyBoi's GitHub stats"/></p>
+
+<p align="center">
+<a href= "https://discordapp.com/users/155489628734881792"><img width="48" height="48" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/></a>
+</p>
 </div>
 <!--
 **GriddyBoi/GriddyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
