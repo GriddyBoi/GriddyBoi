@@ -1,4 +1,4 @@
-### Hi there 👋 I am just the average IT guy that likes to code and play rocket league
+### Hi there 👋  I am just the average IT guy that likes to code and play rocket league
 <div align="middle">
   <a>
     <img src="https://lanyard-profile-readme.vercel.app/api/155489628734881792">
