@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am just the average IT guy that likes to code and play rocket league
 <div align="middle">
   <a>
     <img src="https://lanyard-profile-readme.vercel.app/api/155489628734881792">
   </a>
 
 <p align="center">
-<a href= "https://discordapp.com/users/155489628734881792"><img width="48" height="48" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/></a>
+<a href= "https://discordapp.com/users/155489628734881792"><img width="48" height="48" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/></a> 
+<a href= "https://rocketleague.tracker.network/rocket-league/profile/steam/76561198846576919/overview"><img width="48" height="48" src="https://img.icons8.com/fluency/48/rocket-league.png" alt="rocket-league"/>
 </p>
 </div>
 <!--
