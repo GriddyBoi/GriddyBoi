@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:155489628734881792)
+<div align="middle">
+  <a>
+    <img src="https://lanyard-profile-readme.vercel.app/api/155489628734881792">
+  </a>
+</div>
 <!--
 **GriddyBoi/GriddyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
