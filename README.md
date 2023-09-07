@@ -8,6 +8,7 @@
 <a href= "https://discordapp.com/users/155489628734881792"><img width="48" height="48" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/></a> 
 <a href= "https://rocketleague.tracker.network/rocket-league/profile/steam/76561198846576919/overview"><img width="48" height="48" src="https://img.icons8.com/fluency/48/rocket-league.png" alt="rocket-league"/>
 <a href= "https://steamcommunity.com/id/Gridrl"><img width="48" height="48" src="https://img.icons8.com/fluency/48/steam.png" alt="steam"/>
+<a href= "https://open.spotify.com/user/gridman45"><img width="48" height="48" src="https://img.icons8.com/color/48/spotify--v1.png" alt="spotify--v1"/>
 </p>
 </div>
 <!--
