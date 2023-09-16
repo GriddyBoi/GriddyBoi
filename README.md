@@ -1,4 +1,7 @@
+<div align="middle">
 ### Hi there 👋  I am just an average IT guy that likes to code and play rocket league
+<br/>
+<br/>
 <div align="middle">
   <a>
     <img src="https://lanyard-profile-readme.vercel.app/api/155489628734881792">
