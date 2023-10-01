@@ -1,5 +1,5 @@
 <div align="middle">
-### Hi there 👋  I am just an average IT guy that likes to code and play rocket league
+Hi there 👋  I am just an average IT guy that likes to code and play rocket league
 <br/>
 <br/>
 <div align="middle">
